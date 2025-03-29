@@ -12,9 +12,17 @@
 ---
 
 ## 🔗 **Connect with Me**  
-[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/shreyashmyakal)  
-[![Hashnode](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvAnVJmM4Udt7d7aPttkr7CCgjzQMrkpR6w&s)](https://shreyashmyakal.hashnode.dev/)  
-[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://www.linkedin.com/in/shreyash-myakal-2aa801219/)  
+## 🔗 **Connect with Me**  
+
+<a href="https://github.com/shreyashmyakal">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/>
+</a>  
+<a href="https://shreyashmyakal.hashnode.dev/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvAnVJmM4Udt7d7aPttkr7CCgjzQMrkpR6w&s" width="40" height="40"/>
+</a>  
+<a href="https://www.linkedin.com/in/shreyash-myakal-2aa801219/">
+    <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" height="40"/>
+</a>  
 
 ---
 
