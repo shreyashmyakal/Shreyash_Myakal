@@ -46,9 +46,3 @@
 2️⃣ Your profile will now be visible at **[github.com/shreyashmyakal](https://github.com/shreyashmyakal)**! 🎉  
 
 🚀 Keep learning, keep building!  
-## 📊 GitHub Stats  
-![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyashmyakal&show_icons=true&theme=radical)  
-
-## 🚀 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashmyakal&layout=compact&theme=dark)
-
