@@ -10,12 +10,10 @@
 ⚡ **Fun Fact:** I love automating everything!  
 
 ---
-
-## 🔗 **Connect with Me**  
-## 🔗 **Connect with Me**  
+## 🔗 **Connect with Me**   
 
 <a href="https://github.com/shreyashmyakal">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40" height="40"/>
 </a>  
 <a href="https://shreyashmyakal.hashnode.dev/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvAnVJmM4Udt7d7aPttkr7CCgjzQMrkpR6w&s" width="40" height="40"/>
