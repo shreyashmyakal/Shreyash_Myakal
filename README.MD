@@ -36,18 +36,23 @@
 <a href="https://aws.amazon.com/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzVGLJU6LUvqnAcq7ZZRLxkQzdQ_FXb4f0XQ&s" width="40" height="40"/>
 </a>  
+
 <a href="https://www.docker.com/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSRu2NRWTCLZU5QnyaVf7hBgfiTdwYuU2D9Q&s" width="40" height="40"/>
 </a>  
+
 <a href="https://kubernetes.io/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mrjvrELVUrAl8sk0A609wlO1G6nQIYOreg&s" width="40" height="40"/>
 </a>  
+
 <a href="https://www.terraform.io/">
     <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/terraform-11797001-9632800.png?f=webp&w=256" width="40" height="40"/>
 </a>  
+
 <a href="https://www.ansible.com/">
     <img src="https://icon2.cleanpng.com/20180928/cfx/kisspng-logo-brand-product-design-ansible-font-all-city-cloud-nodes-now-run-openstack-mitaka-ci-5baeb50ccee361.0345824515381762688474.jpg" width="40" height="40"/>
 </a>  
+
 <a href="https://www.jenkins.io/">
     <img src="https://w7.pngwing.com/pngs/151/360/png-transparent-jenkins-continuous-integration-computer-servers-software-deployment-software-build-others-plugin-dublin-human-behavior.png" width="40" height="40"/>
 </a>  
