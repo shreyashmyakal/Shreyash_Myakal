@@ -19,7 +19,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvAnVJmM4Udt7d7aPttkr7CCgjzQMrkpR6w&s" width="40" height="40"/>
 </a>  
 <a href="https://www.linkedin.com/in/shreyash-myakal-2aa801219/">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" height="40"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="50" height="50"/>
 </a>  
 
 ---
