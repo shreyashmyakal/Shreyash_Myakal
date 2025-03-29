@@ -33,12 +33,27 @@
 <td valign="top">
 
 ### 🚀 **Cloud & DevOps**  
-[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
-[![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)  
-[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)  
-[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)  
+## 🚀 **Cloud & DevOps**  
+
+<a href="https://aws.amazon.com/">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" height="40"/>
+</a>  
+<a href="https://www.docker.com/">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40"/>
+</a>  
+<a href="https://kubernetes.io/">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_169901.png" width="40" height="40"/>
+</a>  
+<a href="https://www.terraform.io/">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+</a>  
+<a href="https://www.ansible.com/">
+    <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" width="40" height="40"/>
+</a>  
+<a href="https://www.jenkins.io/">
+    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40"/>
+</a>  
+
 
 </td>
 <td valign="top">
