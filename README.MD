@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shreyash Myakal  
-<img src="https://i.pinimg.com/originals/b6/eb/9b/b6eb9b94fb21cc17673b532c5e0420e7.gif" width="700" height="300"/>  
+<img src="https://i.pinimg.com/originals/b6/eb/9b/b6eb9b94fb21cc17673b532c5e0420e7.gif" width="750" height="300"/>  
 
 🚀 **Aspiring AWS DevOps Engineer | Cloud & Automation Enthusiast**  
 
