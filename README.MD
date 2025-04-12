@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shreyash Myakal  
-<img src="https://gifdb.com/images/high/anime-couple-kimi-ni-todoke-walking-rhkaxcy9tojdmcsl.gif" width="680" height="300"/>  
+<img src="https://i.pinimg.com/originals/a2/85/43/a2854362e355f679ac7519d88337d466.gif" width="680" height="300"/>  
 
 🚀 **Aspiring AWS DevOps Engineer | Cloud & Automation Enthusiast**  
 
